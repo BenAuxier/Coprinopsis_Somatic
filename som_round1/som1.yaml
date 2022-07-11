@@ -1,0 +1,14 @@
+# Data from Auxier et al. 2023 Genetic mapping of incompatibility in Coprinopsis cinerea
+# data from first round of fine mapping across 80-400 kb regions
+
+crosstype: riself
+geno: som1_geno.csv
+pheno: som1_pheno.csv
+gmap: som1_gmap.csv
+
+genotypes:
+  0: 1
+  1: 2
+na.strings:
+- '-'
+- NA
