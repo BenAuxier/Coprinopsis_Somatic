@@ -1,0 +1,54 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_001839460.2       -          nacht_mafft_aligned  -           4.7e-187  621.6   0.1  5.7e-187  621.3   0.1   1.0   1   0   0   1   1   1   1 hypothetical protein CC1G_06673 [Coprinopsis cinerea okayama7#130]
+XP_001839462.2       -          nacht_mafft_aligned  -           5.2e-175  581.9   0.1  6.1e-175  581.7   0.1   1.0   1   0   0   1   1   1   1 hypothetical protein CC1G_06675 [Coprinopsis cinerea okayama7#130]
+XP_001836070.2       -          nacht_mafft_aligned  -             4e-169  562.5   0.0  4.5e-169  562.4   0.0   1.0   1   0   0   1   1   1   1 hypothetical protein CC1G_05063 [Coprinopsis cinerea okayama7#130]
+XP_002910064.1       -          nacht_mafft_aligned  -            1.6e-17   63.2   0.7   2.1e-16   59.5   0.0   2.3   2   1   0   2   2   2   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001838335.2       -          nacht_mafft_aligned  -            2.9e-17   62.3   0.0   5.1e-17   61.6   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein CC1G_04779 [Coprinopsis cinerea okayama7#130]
+XP_001838303.2       -          nacht_mafft_aligned  -            1.2e-15   57.0   0.0   1.9e-15   56.3   0.0   1.2   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001828482.2       -          nacht_mafft_aligned  -              2e-15   56.3   0.0   3.4e-15   55.5   0.0   1.3   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001840254.2       -          nacht_mafft_aligned  -            6.1e-15   54.7   0.0   9.9e-15   54.0   0.0   1.2   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001838367.2       -          nacht_mafft_aligned  -            3.4e-13   48.9   0.0   5.5e-13   48.3   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein CC1G_04811 [Coprinopsis cinerea okayama7#130]
+XP_001838242.1       -          nacht_mafft_aligned  -            3.8e-13   48.8   0.0   5.7e-13   48.2   0.0   1.2   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001833947.2       -          nacht_mafft_aligned  -            5.3e-13   48.3   0.0   9.2e-13   47.5   0.0   1.3   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001828478.2       -          nacht_mafft_aligned  -            6.9e-13   47.9   0.0   1.1e-12   47.3   0.0   1.2   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001838248.1       -          nacht_mafft_aligned  -              1e-12   47.4   0.0   1.6e-12   46.8   0.0   1.2   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001828499.2       -          nacht_mafft_aligned  -            1.3e-12   47.0   0.0   2.1e-12   46.3   0.0   1.2   1   0   0   1   1   1   1 NWD2 [Coprinopsis cinerea okayama7#130]
+XP_001838653.2       -          nacht_mafft_aligned  -            2.9e-11   42.6   0.0   4.4e-11   42.0   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein CC1G_07844 [Coprinopsis cinerea okayama7#130]
+XP_001839707.2       -          nacht_mafft_aligned  -            5.2e-11   41.8   0.0   9.5e-11   40.9   0.0   1.3   1   0   0   1   1   1   1 peptidase C14 [Coprinopsis cinerea okayama7#130]
+XP_001839668.2       -          nacht_mafft_aligned  -              6e-11   41.6   0.0     1e-10   40.8   0.0   1.2   1   0   0   1   1   1   1 ribosome assembly protein 4 [Coprinopsis cinerea okayama7#130]
+XP_001839683.1       -          nacht_mafft_aligned  -              8e-11   41.2   0.0   1.4e-10   40.4   0.0   1.3   1   0   0   1   1   1   1 HNWD3 [Coprinopsis cinerea okayama7#130]
+XP_001830810.1       -          nacht_mafft_aligned  -            1.2e-10   40.5   0.0   2.3e-07   29.7   0.0   2.2   2   0   0   2   2   2   2 hypothetical protein CC1G_02261 [Coprinopsis cinerea okayama7#130]
+XP_001838254.2       -          nacht_mafft_aligned  -            2.7e-09   36.1   0.0   4.3e-09   35.4   0.0   1.2   1   0   0   1   1   1   1 NACHT and WD40 domain-containing protein [Coprinopsis cinerea okayama7#130]
+XP_001834005.2       -          nacht_mafft_aligned  -            2.7e-07   29.5   0.0   4.9e-07   28.7   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein CC1G_09419 [Coprinopsis cinerea okayama7#130]
+XP_001838326.2       -          nacht_mafft_aligned  -            3.9e-07   29.0   0.0     6e-07   28.4   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein CC1G_04770 [Coprinopsis cinerea okayama7#130]
+XP_001838349.2       -          nacht_mafft_aligned  -            7.1e-07   28.1   0.0   1.1e-06   27.5   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein CC1G_04793 [Coprinopsis cinerea okayama7#130]
+XP_001828317.2       -          nacht_mafft_aligned  -            9.2e-07   27.8   0.0   1.4e-06   27.2   0.0   1.2   1   0   0   1   1   1   1 NB-ARC [Coprinopsis cinerea okayama7#130]
+XP_001840887.1       -          nacht_mafft_aligned  -            3.2e-06   26.0   0.0   5.7e-06   25.2   0.0   1.5   1   1   0   1   1   1   1 hypothetical protein CC1G_03116 [Coprinopsis cinerea okayama7#130]
+XP_001833976.1       -          nacht_mafft_aligned  -            2.9e-05   22.8   0.0   4.7e-05   22.1   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein CC1G_01653 [Coprinopsis cinerea okayama7#130]
+XP_002910074.1       -          nacht_mafft_aligned  -            3.1e-05   22.7   0.1    0.0079   14.8   0.0   2.0   1   1   1   2   2   2   2 hypothetical protein CC1G_15794 [Coprinopsis cinerea okayama7#130]
+XP_001835095.2       -          nacht_mafft_aligned  -            3.2e-05   22.7   0.0   8.3e-05   21.3   0.0   1.6   1   1   0   1   1   1   1 WD-repeat-containing protein [Coprinopsis cinerea okayama7#130]
+XP_001835454.2       -          nacht_mafft_aligned  -            5.2e-05   22.0   0.0   0.00012   20.9   0.0   1.5   1   1   0   1   1   1   1 hypothetical protein CC1G_05416 [Coprinopsis cinerea okayama7#130]
+XP_001840874.2       -          nacht_mafft_aligned  -            5.6e-05   21.9   0.0   8.4e-05   21.3   0.0   1.2   1   0   0   1   1   1   1 vegetative incompatibility protein HET-E-1 [Coprinopsis cinerea okayama7#130]
+XP_001835457.2       -          nacht_mafft_aligned  -            7.9e-05   21.4   0.0   0.00017   20.3   0.0   1.4   1   1   0   1   1   1   1 hypothetical protein CC1G_05419 [Coprinopsis cinerea okayama7#130]
+XP_001841141.2       -          nacht_mafft_aligned  -              8e-05   21.4   0.0   0.00013   20.7   0.0   1.3   1   0   0   1   1   1   1 HNWD1 [Coprinopsis cinerea okayama7#130]
+XP_002911782.1       -          nacht_mafft_aligned  -            0.00031   19.4   0.0    0.0015   17.2   0.0   2.1   3   0   0   3   3   3   1 hypothetical protein CC1G_13817 [Coprinopsis cinerea okayama7#130]
+XP_002910750.1       -          nacht_mafft_aligned  -            0.00069   18.3   0.0    0.0012   17.5   0.0   1.3   1   0   0   1   1   1   1 vegetative incompatibility protein HET-E-1 [Coprinopsis cinerea okayama7#130]
+XP_002911311.1       -          nacht_mafft_aligned  -            0.00073   18.2   0.0    0.0014   17.3   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein CC1G_14740 [Coprinopsis cinerea okayama7#130]
+XP_001832150.2       -          nacht_mafft_aligned  -             0.0031   16.1   0.0    0.0062   15.2   0.0   1.4   1   0   0   1   1   1   1 hypothetical protein CC1G_02412 [Coprinopsis cinerea okayama7#130]
+XP_001832149.1       -          nacht_mafft_aligned  -              0.034   12.7   0.0      0.06   11.9   0.0   1.3   1   0   0   1   1   1   0 hypothetical protein CC1G_02411 [Coprinopsis cinerea okayama7#130]
+XP_001840898.2       -          nacht_mafft_aligned  -              0.039   12.5   0.6     0.083   11.5   0.6   1.5   1   1   0   1   1   1   0 vegetative incompatibility protein HET-E-1 [Coprinopsis cinerea okayama7#130]
+XP_001832173.2       -          nacht_mafft_aligned  -              0.062   11.9   0.0      0.12   10.9   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein CC1G_02435 [Coprinopsis cinerea okayama7#130]
+XP_001830002.2       -          nacht_mafft_aligned  -              0.084   11.4   0.1       5.6    5.4   0.0   2.2   2   0   0   2   2   2   0 hypothetical protein CC1G_04691 [Coprinopsis cinerea okayama7#130]
+XP_001837794.1       -          nacht_mafft_aligned  -               0.22   10.0   1.9      0.27    9.7   1.9   1.1   1   0   0   1   1   1   0 hypothetical protein CC1G_11439 [Coprinopsis cinerea okayama7#130]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      nacht_mafft_aligned.hmm
+# Target file:     coprinopsis_allies/GCF_000182895.1_CC3_protein.faa
+# Option settings: hmmsearch --tblout nacht_hits/nacht_hits.GCF_000182895.1_CC3_.txt nacht_mafft_aligned.hmm coprinopsis_allies/GCF_000182895.1_CC3_protein.faa 
+# Current dir:     /mnt/LTR_userdata/auxie001/coprin_som/diverse
+# Date:            Thu Aug 28 11:13:53 2025
+# [ok]

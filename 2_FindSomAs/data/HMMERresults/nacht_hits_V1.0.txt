@@ -1,0 +1,64 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_001884729.1       -          nacht_mafft_aligned  -              8e-13   48.2   0.0   1.5e-12   47.2   0.0   1.4   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_391498 [Laccaria bicolor S238N-H82]
+XP_001890441.1       -          nacht_mafft_aligned  -            8.1e-11   41.6   0.5   9.1e-10   38.1   0.1   2.5   2   1   0   2   2   2   1 uncharacterized protein LACBIDRAFT_398050 [Laccaria bicolor S238N-H82]
+XP_001889157.1       -          nacht_mafft_aligned  -            2.1e-10   40.2   0.6   0.00059   19.0   0.0   3.3   3   0   0   3   3   3   2 uncharacterized protein LACBIDRAFT_396451 [Laccaria bicolor S238N-H82]
+XP_001875763.1       -          nacht_mafft_aligned  -            4.2e-10   39.2   4.3     9e-10   38.1   0.7   3.0   2   1   1   3   3   3   1 uncharacterized protein LACBIDRAFT_381851 [Laccaria bicolor S238N-H82]
+XP_001888293.1       -          nacht_mafft_aligned  -            8.2e-10   38.3   0.0   0.00095   18.3   0.0   2.4   2   0   0   2   2   2   2 uncharacterized protein LACBIDRAFT_395470 [Laccaria bicolor S238N-H82]
+XP_001889148.1       -          nacht_mafft_aligned  -            8.8e-10   38.2   0.2   8.6e-09   34.9   0.2   2.3   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_334339 [Laccaria bicolor S238N-H82]
+XP_001891084.1       -          nacht_mafft_aligned  -            9.1e-10   38.1   0.0     4e-09   36.0   0.0   1.8   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_296068, partial [Laccaria bicolor S238N-H82]
+XP_001882627.1       -          nacht_mafft_aligned  -            1.1e-09   37.8   0.0     5e-09   35.7   0.0   1.8   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_299652 [Laccaria bicolor S238N-H82]
+XP_001888814.1       -          nacht_mafft_aligned  -            2.3e-09   36.8   0.1   4.3e-09   35.9   0.1   1.5   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_295762 [Laccaria bicolor S238N-H82]
+XP_001882648.1       -          nacht_mafft_aligned  -            2.3e-09   36.8   0.2   9.3e-09   34.8   0.1   1.9   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_299688 [Laccaria bicolor S238N-H82]
+XP_001889142.1       -          nacht_mafft_aligned  -            2.4e-09   36.7   0.3   1.4e-08   34.2   0.7   2.1   2   1   0   2   2   1   1 uncharacterized protein LACBIDRAFT_314575 [Laccaria bicolor S238N-H82]
+XP_001882663.1       -          nacht_mafft_aligned  -            2.7e-09   36.6   0.1     1e-08   34.7   0.1   1.7   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_299706 [Laccaria bicolor S238N-H82]
+XP_001889138.1       -          nacht_mafft_aligned  -              3e-09   36.4   0.3   1.3e-08   34.4   0.2   2.0   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_314561 [Laccaria bicolor S238N-H82]
+XP_001889158.1       -          nacht_mafft_aligned  -            5.9e-09   35.4   0.3   2.2e-08   33.6   0.1   1.9   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_314658 [Laccaria bicolor S238N-H82]
+XP_001875578.1       -          nacht_mafft_aligned  -            1.6e-08   34.0   0.1   1.1e-07   31.2   0.1   2.0   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_381489 [Laccaria bicolor S238N-H82]
+XP_001882641.1       -          nacht_mafft_aligned  -              2e-08   33.7   0.1   6.9e-08   31.9   0.1   1.8   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_299673 [Laccaria bicolor S238N-H82]
+XP_001889798.1       -          nacht_mafft_aligned  -            2.4e-08   33.4   0.0   4.1e-08   32.7   0.0   1.2   1   0   0   1   1   1   1 WD-40 repeat-containing protein [Laccaria bicolor S238N-H82]
+XP_001882614.1       -          nacht_mafft_aligned  -            2.6e-08   33.3   0.1   9.9e-08   31.4   0.1   1.8   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_388916 [Laccaria bicolor S238N-H82]
+XP_001877577.1       -          nacht_mafft_aligned  -            4.2e-08   32.6   0.0   7.1e-08   31.9   0.0   1.3   1   0   0   1   1   1   1 ectomycorrhiza up-regulated NACHT-containing protein [Laccaria bicolor S238N-H82]
+XP_001889155.1       -          nacht_mafft_aligned  -            5.5e-08   32.3   0.6   4.7e-07   29.2   0.3   2.4   2   1   0   2   2   2   1 uncharacterized protein LACBIDRAFT_314645 [Laccaria bicolor S238N-H82]
+XP_001889149.1       -          nacht_mafft_aligned  -            8.6e-08   31.6   0.3   2.6e-07   30.0   0.3   1.7   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_334343 [Laccaria bicolor S238N-H82]
+XP_001882908.1       -          nacht_mafft_aligned  -            9.1e-08   31.5   0.3   2.9e-07   29.9   0.3   1.7   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_389232 [Laccaria bicolor S238N-H82]
+XP_001888239.1       -          nacht_mafft_aligned  -            1.1e-07   31.2   0.0     4e-07   29.4   0.0   1.8   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_395446 [Laccaria bicolor S238N-H82]
+XP_001877979.1       -          nacht_mafft_aligned  -            1.3e-07   31.0   1.1   4.5e-06   25.9   1.0   2.7   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_314289 [Laccaria bicolor S238N-H82]
+XP_001889151.1       -          nacht_mafft_aligned  -            1.5e-07   30.8   0.4   4.5e-07   29.2   0.1   1.8   2   1   0   2   2   1   1 uncharacterized protein LACBIDRAFT_314633 [Laccaria bicolor S238N-H82]
+XP_001882848.1       -          nacht_mafft_aligned  -            1.7e-07   30.6   0.1   1.2e-06   27.9   0.1   2.2   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_389373 [Laccaria bicolor S238N-H82]
+XP_001878905.1       -          nacht_mafft_aligned  -            2.7e-07   30.0   0.0   7.7e-07   28.5   0.0   1.6   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_385169 [Laccaria bicolor S238N-H82]
+XP_001889800.1       -          nacht_mafft_aligned  -            2.7e-07   30.0   0.0   4.7e-07   29.2   0.0   1.3   1   0   0   1   1   1   1 mycorrhiza-induced WD40-repeat domain protein [Laccaria bicolor S238N-H82]
+XP_001888960.1       -          nacht_mafft_aligned  -            4.2e-07   29.3   0.0   6.7e-07   28.7   0.0   1.2   1   0   0   1   1   1   1 WD40-containing domain protein [Laccaria bicolor S238N-H82]
+XP_001886599.1       -          nacht_mafft_aligned  -            5.9e-07   28.8   0.0   1.1e-06   28.0   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_393541 [Laccaria bicolor S238N-H82]
+XP_001878900.1       -          nacht_mafft_aligned  -            6.9e-07   28.6   0.0   2.4e-06   26.9   0.0   1.7   1   1   0   1   1   1   1 mycorrhiza-induced NACHT/WD-repeat protein [Laccaria bicolor S238N-H82]
+XP_001877559.1       -          nacht_mafft_aligned  -            7.1e-07   28.6   0.1    0.0015   17.6   0.0   2.2   2   0   0   2   2   2   2 uncharacterized protein LACBIDRAFT_314109 [Laccaria bicolor S238N-H82]
+XP_001886225.1       -          nacht_mafft_aligned  -            9.1e-07   28.2   0.7   1.4e-06   27.6   0.1   1.5   2   0   0   2   2   1   1 uncharacterized protein LACBIDRAFT_331856 [Laccaria bicolor S238N-H82]
+XP_001879065.1       -          nacht_mafft_aligned  -            1.7e-06   27.4   0.0   2.9e-06   26.6   0.0   1.3   1   0   0   1   1   1   1 WD-40 repeat-containing protein [Laccaria bicolor S238N-H82]
+XP_001888003.1       -          nacht_mafft_aligned  -            2.2e-06   26.9   0.0   3.6e-06   26.3   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_312217 [Laccaria bicolor S238N-H82]
+XP_001889262.1       -          nacht_mafft_aligned  -            3.8e-06   26.2   0.0     8e-06   25.1   0.0   1.5   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_396594 [Laccaria bicolor S238N-H82]
+XP_001886920.1       -          nacht_mafft_aligned  -            6.3e-06   25.5   6.2     0.002   17.2   0.1   2.9   3   0   0   3   3   3   2 uncharacterized protein LACBIDRAFT_393910 [Laccaria bicolor S238N-H82]
+XP_001879862.1       -          nacht_mafft_aligned  -              9e-06   25.0   0.0   1.7e-05   24.1   0.0   1.3   1   0   0   1   1   1   1 NACHT/WD40 domain-containing protein [Laccaria bicolor S238N-H82]
+XP_001885324.1       -          nacht_mafft_aligned  -            2.4e-05   23.6   0.0   3.9e-05   22.9   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_392010 [Laccaria bicolor S238N-H82]
+XP_001882218.1       -          nacht_mafft_aligned  -            4.3e-05   22.7   0.1   6.8e-05   22.1   0.1   1.2   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_299034 [Laccaria bicolor S238N-H82]
+XP_001890573.1       -          nacht_mafft_aligned  -            5.3e-05   22.4   0.0   0.00011   21.4   0.0   1.5   1   0   0   1   1   1   1 tetratricopeptide repeat-containing protein [Laccaria bicolor S238N-H82]
+XP_001886877.1       -          nacht_mafft_aligned  -              6e-05   22.2   0.1    0.0002   20.5   0.1   1.9   1   1   0   1   1   1   1 uncharacterized protein LACBIDRAFT_295411 [Laccaria bicolor S238N-H82]
+XP_001881479.1       -          nacht_mafft_aligned  -            7.1e-05   22.0   0.0   0.00023   20.3   0.0   1.9   1   1   1   2   2   2   1 uncharacterized protein LACBIDRAFT_294471 [Laccaria bicolor S238N-H82]
+XP_001888569.1       -          nacht_mafft_aligned  -            0.00016   20.9   0.0   0.00028   20.0   0.0   1.3   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_295705 [Laccaria bicolor S238N-H82]
+XP_001884519.1       -          nacht_mafft_aligned  -             0.0052   15.9   0.0    0.0075   15.3   0.0   1.2   1   0   0   1   1   1   1 uncharacterized protein LACBIDRAFT_304017 [Laccaria bicolor S238N-H82]
+XP_001888246.1       -          nacht_mafft_aligned  -              0.008   15.2   2.3    0.0098   15.0   0.1   2.1   2   1   0   2   2   2   1 uncharacterized protein LACBIDRAFT_312545 [Laccaria bicolor S238N-H82]
+XP_001884514.1       -          nacht_mafft_aligned  -              0.008   15.2   0.0      0.16   10.9   0.0   2.1   2   0   0   2   2   2   1 uncharacterized protein LACBIDRAFT_330264 [Laccaria bicolor S238N-H82]
+XP_001889147.1       -          nacht_mafft_aligned  -              0.012   14.7   0.0     0.035   13.1   0.0   1.7   2   0   0   2   2   2   0 uncharacterized protein LACBIDRAFT_314611 [Laccaria bicolor S238N-H82]
+XP_001877608.1       -          nacht_mafft_aligned  -              0.019   14.0   0.1     0.019   14.0   0.1   1.6   2   0   0   2   2   2   0 uncharacterized protein LACBIDRAFT_383920 [Laccaria bicolor S238N-H82]
+XP_001886922.1       -          nacht_mafft_aligned  -              0.067   12.2   0.1      0.31   10.0   0.1   1.9   1   1   0   1   1   1   0 ectomycorrhiza-induced ankyrin-domain/NACHT-domain containing protein [Laccaria bicolor S238N-H82]
+XP_001881656.1       -          nacht_mafft_aligned  -               0.15   11.1   0.0      0.17   10.8   0.0   1.1   1   0   0   1   1   1   0 uncharacterized protein LACBIDRAFT_298127 [Laccaria bicolor S238N-H82]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      nacht_mafft_aligned.hmm
+# Target file:     GCF_000143565.1_V1.0_protein.faa
+# Option settings: hmmsearch --tblout nacht_hits/nacht_hits.GCF_000143565.1_V1.0_txt nacht_mafft_aligned.hmm GCF_000143565.1_V1.0_protein.faa 
+# Current dir:     /mnt/LTR_userdata/auxie001/coprin_som/diverse
+# Date:            Fri Dec 13 16:27:29 2024
+# [ok]

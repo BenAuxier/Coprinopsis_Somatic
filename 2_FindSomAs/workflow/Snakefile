@@ -1,0 +1,28 @@
+# -*- snakemake -*-
+
+# load configuration
+# -----------------------------------------------------
+configfile: "config/config.yaml"
+
+# load rules
+# -----------------------------------------------------
+## Choose the type of annotation used
+if config["Augustus"]:
+    include: "rules/FindSomAsAugustus.smk"
+    maintable = "results/Loci_counts_Augustus.txt"
+else:
+    include: "rules/FindSomAs.smk"
+    maintable = "results/Loci_counts_GenBank.txt"
+
+# target rules
+# -----------------------------------------------------
+rule all:
+    input:
+        # The count table for candidate loci per sample
+        maintable,
+        # The protein sequences of the candidate somA genes
+        expand("results/fastas/somA_candidates_{prot}.faa", prot = ["nacht", "kinase"]),
+        # Pretty annotation files of the candidate somA loci in the input genomes (check it out in IGV)
+        expand("results/gffs/{sample}_somA_candidates.gff", sample = config["GenomesIDs"]), # this will also produce the BED files in the results folder
+    
+    default_target: True
