@@ -1,0 +1,21 @@
+Strain	Species
+Agabi_varbisH97_2	Agaricus bisporus var bisporus
+Laccaria_amethystina_LaAM-08-1_v1.0	Laccaria amethystina
+V1.0	Laccaria bicolor
+ASM412641v1	Candolleomyces aberdarensis
+Candolleomyces_efflorescens_reassembly_enz	Candolleomyces efflorescens
+Candolleomyces_eurysporus_reassembly_enz	Candolleomyces eurysporus
+Coprinellus_aureogranulatus_MPG-14n_reassembly	Coprinellus aureogranulatus
+GCA_951394405.1_gfCopMica1.1	Coprinellus micaceus
+C_micaeus_w1	Coprinellus micaceus
+C_micaeus_DM1047	Coprinellus micaceus
+Copmic2	Coprinellus micaceus
+CC3	Coprinopsis cinerea
+Copmar1	Coprinopsis marcescibilis
+Copph3	Coprinopsis sp
+GCA_900156845.1_ASM90015684v1	Coprinopsis strossmayeri
+LU_COA_1.0	Tulosesus angulatus
+MGC_Penvy_1	Psilocybe cubensis
+Psicy2	Psilocybe cyanescens
+LU_PSS_1.0	Psilocybe cf. subviscida
+Corgl3	Phlegmacium glaucopus

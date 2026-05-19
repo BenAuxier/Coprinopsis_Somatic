@@ -1,0 +1,17 @@
+name: r-ggtree
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - r-essentials
+  - r-tidyverse
+  - r-ape
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-ggnewscale
+  - bioconductor-ggtree
+  - bioconductor-ggtreeextra
+  - bioconductor-treeio
