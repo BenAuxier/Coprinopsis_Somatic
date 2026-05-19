@@ -1,0 +1,19 @@
+# OS generated files #
+######################
+.DS_Store
+
+# Analyses files #
+######################
+
+# Snakemake
+.snakemake
+
+# Workflow
+workflow/intermediate
+workflow/temp
+
+# Data files #
+######################
+data/Annotations
+data/Genomes
+
