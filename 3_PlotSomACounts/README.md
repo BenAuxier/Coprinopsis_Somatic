@@ -20,7 +20,7 @@ The alignment in nexus and fasta format, as well as the tree are found in the `d
 
 ## Plotting the phylogeny and the counts of *somA*-like loci
 
-To plot the results of the `01_FindSomAs` pipeline, I made a separate R script called `scripts/somACounts.R`. I ran this script in Rstudio, using the following conda environment (see the README at `01_FindSomAs` for more details on conda):
+To plot the results of the `2_FindSomAs` pipeline, I made a separate R script called `scripts/somACounts.R`. I ran this script in Rstudio, using the following conda environment (see the README at `2_FindSomAs` for more details on conda):
 
 	% mamba env create -f envs/r-ggtree-env.yml
 	% mamba activate r-ggtree
@@ -29,4 +29,4 @@ Then I opened Rstudio from within the environment:
 
 	% open -a RStudio
 
-And obtained a figure in `results/tree_heatmap_v1.png`. As input it takes the `../01_FindSomAs/results/Loci_counts.txt` file. It also takes the newick tree produced above and a table mapping species to strains, both available in the directory `data` here.
+And obtained a figure in `results/tree_heatmap_v1.png`. As input it takes the `../2_FindSomAs/results/Loci_counts.txt` file. It also takes the newick tree produced above and a table mapping species to strains (`Sample_Species_map.txt`), both available in the directory `data` here.
