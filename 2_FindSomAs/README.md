@@ -58,12 +58,12 @@ For each sample with name `GenomeID` you need:
 
 - The fasta file of the genome assembly named `GenomeID.fa` in the `data/Genomes` directory
 - The genome annotation in GFF3 format named `GenomeID.gff` in the `data/Annotations` directory
-- The HMMER results of the kinase genes in that genome names `kinase_hits_GenomeID.txt` in the `data\HMMERresults`
+- The HMMER results of the kinase genes in that genome names `kinase_hits_GenomeID.txt` in the `data\HMMERresults`. **These files are provided as such here in the repository.**
 - The HMMER results of the NACHT genes in that genome names `nacht_hits_GenomeID.txt` in the `data\HMMERresults`. **These files are provided as such here in the repository.**
 
-In our dataset, many genomes were obtained directly from GenBank. A list of NCBI accession numbers can be found in `data/GenBank_accessions.txt`. You'll need to download the genomes and their annotations (typically named `genomic.gff` by the GenBank system), place them rename them as above in their corresponding directories.
+All genomes were obtained directly from GenBank. A list of NCBI accession numbers can be found in `data/GenBank_accessions.txt`. You'll need to download the genomes and their annotations (typically named `genomic.gff` by the GenBank system), place them and rename them as above in their corresponding directories.
 
-Re-naming all these files once you download them from NCBI is a big pain in the ass, so the pipeline can do it for you as long as the paths follow a specific format (see below).
+Re-naming all these files once you download them from NCBI is a pain, so the pipeline can do it for you as long as the paths follow a specific format (see below).
 
 In addition to these, some genomes without annotations available were annotated with the [Augustus](https://bioinf.uni-greifswald.de/augustus/) tool. The samples annotated this way are: "C_micaeus_DM1047", "C_micaeus_w1", "GCA_900156845.1_ASM90015684v1", and "GCA_951394405.1_gfCopMica1.1". The annotations for those genomes will be shared [SOMEWHERE, TODO](). 
 
