@@ -1,6 +1,6 @@
-# Somatic incompatibility in Coprinopsis cinerea
+# Genetics of somatic incompatibility in *Coprinopsis cinerea*
 
-[![Snakemake](https://img.shields.io/badge/snakemake-≥8.0.0-brightgreen.svg)](https://snakemake.github.io)
+[![Snakemake](https://img.shields.io/badge/snakemake-≥9.0.0-brightgreen.svg)](https://snakemake.github.io)
 [![run with conda](http://img.shields.io/badge/run%20with-conda-3EB049?labelColor=000000&logo=anaconda)](https://docs.conda.io/en/latest/)
 
 Here you'll find the code associated with the analyses of the manuscript:
@@ -9,7 +9,7 @@ Here you'll find the code associated with the analyses of the manuscript:
 
 ## Usage
 
-The bioinformatics pipelines were all designed in [Snakemake](https://snakemake.readthedocs.io/en/stable/) and depend on [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) environments.
+One of the bioinformatics pipelines was designed in [Snakemake](https://snakemake.readthedocs.io/en/stable/) and depend on [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) environments. Other analyses depend on stand-alone R scripts or guidelines in bash.
 
 ## Data availability
 
