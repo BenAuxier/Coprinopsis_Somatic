@@ -14,6 +14,6 @@ workflow/temp
 
 # Data files #
 ######################
-data/Annotations
-data/Genomes
+2_FindSomAs/data/Annotations
+2_FindSomAs/data/Genomes 
 
