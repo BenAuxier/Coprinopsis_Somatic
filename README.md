@@ -9,7 +9,7 @@ Here you'll find the code associated with the analyses of the manuscript:
 
 ## Usage
 
-One of the bioinformatics pipelines was designed in [Snakemake](https://snakemake.readthedocs.io/en/stable/) and depend on [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) environments. Other analyses depend on stand-alone R scripts or guidelines in bash.
+One of the bioinformatics pipelines was designed in [Snakemake](https://snakemake.readthedocs.io/en/stable/) and depend on [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) environments. Other analyses depend on stand-alone R or bash scripts.
 
 ## Data availability
 
