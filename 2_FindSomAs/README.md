@@ -145,7 +145,7 @@ To get an idea of how the pipeline looks like we can make a rulegraph:
 
 	$ snakemake --rulegraph | dot -Tpng > rulegraph.png
 
-(You might need to install dot for that to run by doing `brew install graphviz` first).
+(You might need to install `dot` by doing `brew install graphviz` first in a MacOS).
 
 ![rulegraph](rulegraph.png "rulegraph")
 
@@ -181,4 +181,4 @@ To put the tables together in a single file do:
 	$ cat results/Loci_counts_GenBank.txt > results/Loci_counts.txt
 	$ cat results/Loci_counts_Augustus.txt | grep -v 'Strain' >> results/Loci_counts.txt
 
-Which you can open in Excel or R.
+Which you can open in Excel, or in R using the script in the folder `3_PlotSomACounts` in this repository.
