@@ -71,7 +71,7 @@ In addition to these, some genomes without annotations available were annotated 
 
 Here just do it manually and put the assemblies following the format above, that is `data/Genomes/GenomeID.fa`:
 
-	% ls data/Genomes
+	$ ls data/Genomes
 	C_micaeus_DM1047.fa			C_micaeus_w1.fa				GCA_900156845.1_ASM90015684v1.fa	GCA_951394405.1_gfCopMica1.1.fa
 
 ### Preparing your files by downloading from NCBI
@@ -80,12 +80,12 @@ Put all your NCBI downloads in the same directory, and for each genome you must 
 
 For example, say that you want to download the genome from the sample with the annoyingly long name `Laccaria_amethystina_LaAM-08-1_v1.0`. Then the data would look like so:
 
-	% ls GenBank/GCA_000827195.1_Laccaria_amethystina_LaAM-08-1_v1.0
+	$ ls GenBank/GCA_000827195.1_Laccaria_amethystina_LaAM-08-1_v1.0
 	assembly_data_report.jsonl	data_summary.tsv		dataset_catalog.json		GCA_000827195.1
 
 And within the folder `GCA_000827195.1`:
 
-	% ls GenBank/GCA_000827195.1_Laccaria_amethystina_LaAM-08-1_v1.0/GCA_000827195.1
+	$ ls GenBank/GCA_000827195.1_Laccaria_amethystina_LaAM-08-1_v1.0/GCA_000827195.1
 	GCA_000827195.1_Laccaria_amethystina_LaAM-08-1_v1.0_genomic.fna	genomic.gff
 
 Which correspond to the genome assembly `GCA_000827195.1_Laccaria_amethystina_LaAM-08-1_v1.0_genomic.fna` and the annotation `genomic.gff`.
@@ -98,15 +98,17 @@ The actual code is found in the `workflow` folder, which includes the pipeline i
 
 ## Building the environment
 
-I built [conda](https://docs.conda.io/en/latest/) environment using the [Mamba](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) implementation. Of course, you can install the software in many other ways, but this one is easy once you have mamba installed.
+I built a [conda](https://docs.conda.io/en/latest/) environment using the [Mamba](https://mamba.readthedocs.io/en/latest/user_guide/mamba.html) implementation. Of course, you can install the software in many other ways, but this one is easy once you have mamba installed.
 
 To create the environment do:
 
-	% mamba create -n copri -c bioconda gffutils=0.14 bedtools=2.31.1 snakemake-minimal=9.20.0 wget=1.21.4 conda-forge::sed
+	$ mamba create -n copri -c bioconda gffutils=0.14 bedtools=2.31.1 snakemake-minimal=9.20.0 wget=1.21.4 conda-forge::sed
 
-It will take a bit to resolve the environment. If it complains about conflicts, you might need to be mischievous and remove some restrictions first, and re-run the command above.
+It will take a bit to resolve the environment. If it complains about conflicts, you might need to be mischievous and remove some restrictions first
 
 	$ conda config --set channel_priority true
+
+And re-run the `mamba` command above.
 
 Once you are done with the pipeline, set your priority back to strict:
 
@@ -114,24 +116,24 @@ Once you are done with the pipeline, set your priority back to strict:
 
 To activate the environment:
 
-	% mamba activate copri
+	$ mamba activate copri
 
 ## Running the pipeline
 
 Go to working directory of this repository:
 
-	% cd path/to/01_FindSomAs
+	$ cd path/to/2_FindSomAs
 
 Activate the environment:
 
-	% mamba activate copri
+	$ mamba activate copri
 
 ### Workflow
 
 You will run the pipeline twice: one for the Genbank-annotated assemblies, and another for the Augustus-annotated assemblies. To achieve this, you have to change the `config/config.yaml` file to put the parameters of one or the other. So the workflow is:
 
 1) Make the configuration file for the Genbank annotation (i.e. comment the block of Augustus parameters)
-2) Run the pipeline as explained below, that should produce the file `results/Loci_counts_Augustus.txt`
+2) Run the pipeline as explained below, that should produce the file `results/Loci_counts_GenBank.txt`
 3) Make the configuration file for the Augustus annotation (i.e. comment the block of Genbank parameters)
 4) Run the pipeline again in the same way, that should produce the file `results/Loci_counts_Augustus.txt`
 
@@ -141,7 +143,7 @@ And you are done!
 
 To get an idea of how the pipeline looks like we can make a rulegraph:
 
-	% snakemake --rulegraph | dot -Tpng > rulegraph.png
+	$ snakemake --rulegraph | dot -Tpng > rulegraph.png
 
 (You might need to install dot for that to run by doing `brew install graphviz` first).
 
@@ -149,11 +151,11 @@ To get an idea of how the pipeline looks like we can make a rulegraph:
 
 To check that the files for the pipeline are in order:
 
-	% snakemake -pn
+	$ snakemake -pn
 
 Run it!
 
-	% snakemake --keep-going -j8
+	$ snakemake --keep-going -j8
 
 ## Results
 
@@ -176,7 +178,7 @@ results
 
 To put the tables together in a single file do:
 
-	% cat results/Loci_counts_GenBank.txt > results/Loci_counts.txt
-	% cat results/Loci_counts_Augustus.txt | grep -v 'Strain' >> results/Loci_counts.txt
+	$ cat results/Loci_counts_GenBank.txt > results/Loci_counts.txt
+	$ cat results/Loci_counts_Augustus.txt | grep -v 'Strain' >> results/Loci_counts.txt
 
 Which you can open in Excel or R.
