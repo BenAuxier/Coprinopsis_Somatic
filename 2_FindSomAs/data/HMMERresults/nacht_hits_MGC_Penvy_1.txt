@@ -1,0 +1,58 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+XP_047753549.1       -          nacht_mafft_aligned  -            2.3e-22   79.1   0.1   3.2e-22   78.7   0.1   1.1   1   0   0   1   1   1   1 hypothetical protein JR316_0002841 [Psilocybe cubensis]
+XP_047749330.1       -          nacht_mafft_aligned  -              2e-20   72.8   0.0   3.2e-20   72.1   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0006232 [Psilocybe cubensis]
+XP_047743606.1       -          nacht_mafft_aligned  -            9.1e-20   70.6   0.0   1.3e-19   70.0   0.0   1.1   1   0   0   1   1   1   1 hypothetical protein JR316_0011546 [Psilocybe cubensis]
+XP_047747656.1       -          nacht_mafft_aligned  -              5e-19   68.2   0.0     8e-19   67.5   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0006628 [Psilocybe cubensis]
+XP_047749421.1       -          nacht_mafft_aligned  -              1e-18   67.2   0.0   2.1e-18   66.1   0.0   1.4   1   0   0   1   1   1   1 putative secreted lipase [Psilocybe cubensis]
+XP_047745503.1       -          nacht_mafft_aligned  -            4.7e-16   58.4   0.0   8.1e-16   57.6   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein JR316_0010110 [Psilocybe cubensis]
+XP_047742793.1       -          nacht_mafft_aligned  -            3.2e-15   55.6   0.0   4.1e-15   55.3   0.0   1.0   1   0   0   1   1   1   1 hypothetical protein JR316_0012279 [Psilocybe cubensis]
+XP_047744984.1       -          nacht_mafft_aligned  -            5.2e-15   54.9   0.2   1.1e-13   50.6   0.0   2.4   2   1   0   2   2   1   1 hypothetical protein JR316_0009565 [Psilocybe cubensis]
+XP_047743864.1       -          nacht_mafft_aligned  -              2e-14   53.0   0.0   3.3e-14   52.3   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0011810 [Psilocybe cubensis]
+XP_047753487.1       -          nacht_mafft_aligned  -            1.1e-13   50.5   0.0     2e-13   49.7   0.0   1.3   1   0   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047746866.1       -          nacht_mafft_aligned  -            1.4e-12   47.0   0.0   3.7e-12   45.6   0.0   1.6   1   1   0   1   1   1   1 hypothetical protein JR316_0007829 [Psilocybe cubensis]
+XP_047752340.1       -          nacht_mafft_aligned  -            5.5e-12   45.0   0.0   1.8e-11   43.3   0.0   1.7   2   0   0   2   2   2   1 hypothetical protein JR316_0001615 [Psilocybe cubensis]
+XP_047741991.1       -          nacht_mafft_aligned  -            7.5e-12   44.5   0.0   1.1e-11   43.9   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0012824 [Psilocybe cubensis]
+XP_047754885.1       -          nacht_mafft_aligned  -            4.5e-11   42.0   0.0     8e-11   41.1   0.0   1.3   1   0   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047746867.1       -          nacht_mafft_aligned  -              6e-11   41.6   0.0   9.6e-11   40.9   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein JR316_0007830 [Psilocybe cubensis]
+XP_047746868.1       -          nacht_mafft_aligned  -            1.3e-10   40.4   0.0   2.1e-10   39.8   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0007831 [Psilocybe cubensis]
+XP_047744880.1       -          nacht_mafft_aligned  -            2.2e-10   39.7   0.0     1e-09   37.5   0.0   1.8   1   1   0   1   1   1   1 hypothetical protein JR316_0011174 [Psilocybe cubensis]
+XP_047744078.1       -          nacht_mafft_aligned  -            4.3e-10   38.8   0.0   8.7e-10   37.7   0.0   1.4   1   0   0   1   1   1   1 hypothetical protein JR316_0010365 [Psilocybe cubensis]
+XP_047746146.1       -          nacht_mafft_aligned  -            6.8e-10   38.1   0.0   1.1e-09   37.4   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0008976 [Psilocybe cubensis]
+XP_047747583.1       -          nacht_mafft_aligned  -            1.3e-09   37.2   0.0   2.9e-09   36.0   0.0   1.4   1   1   0   1   1   1   1 hypothetical protein JR316_0008555 [Psilocybe cubensis]
+XP_047746848.1       -          nacht_mafft_aligned  -            3.6e-09   35.7   0.0   5.9e-09   35.0   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0007810 [Psilocybe cubensis]
+XP_047754874.1       -          nacht_mafft_aligned  -            3.7e-09   35.7   0.0   6.3e-09   34.9   0.0   1.3   1   0   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047744580.1       -          nacht_mafft_aligned  -            1.3e-08   33.9   0.2   4.6e-08   32.0   0.2   1.8   1   1   0   1   1   1   1 hypothetical protein JR316_0010871 [Psilocybe cubensis]
+XP_047751023.1       -          nacht_mafft_aligned  -            1.8e-08   33.4   0.0   8.7e-07   27.8   0.0   2.1   1   1   0   2   2   2   1 hypothetical protein JR316_0002864 [Psilocybe cubensis]
+XP_047746225.1       -          nacht_mafft_aligned  -              4e-08   32.3   0.0   4.5e-06   25.5   0.0   2.2   2   0   0   2   2   2   1 hypothetical protein JR316_0009057 [Psilocybe cubensis]
+XP_047752309.1       -          nacht_mafft_aligned  -            4.9e-08   32.0   0.0   1.1e-07   30.8   0.0   1.5   1   1   0   1   1   1   1 hypothetical protein JR316_0001583 [Psilocybe cubensis]
+XP_047744584.1       -          nacht_mafft_aligned  -            2.8e-07   29.5   0.0   9.7e-07   27.7   0.0   1.7   2   0   0   2   2   2   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047748421.1       -          nacht_mafft_aligned  -            7.9e-07   28.0   0.0   1.4e-06   27.1   0.0   1.3   1   0   0   1   1   1   1 Striatin [Psilocybe cubensis]
+XP_047745573.1       -          nacht_mafft_aligned  -            9.9e-07   27.7   0.0   1.4e-06   27.1   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein JR316_0010181 [Psilocybe cubensis]
+XP_047744542.1       -          nacht_mafft_aligned  -            2.9e-06   26.1   0.0   4.7e-06   25.4   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein JR316_0010833 [Psilocybe cubensis]
+XP_047752291.1       -          nacht_mafft_aligned  -            3.3e-06   26.0   0.0   1.1e-05   24.2   0.0   1.8   1   1   0   1   1   1   1 hypothetical protein JR316_0001565 [Psilocybe cubensis]
+XP_047744907.1       -          nacht_mafft_aligned  -              5e-06   25.3   0.0   1.5e-05   23.7   0.0   1.7   1   1   0   1   1   1   1 hypothetical protein JR316_0009486 [Psilocybe cubensis]
+XP_047747819.1       -          nacht_mafft_aligned  -            6.2e-06   25.0   0.0   1.1e-05   24.3   0.0   1.3   1   0   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047747521.1       -          nacht_mafft_aligned  -            8.4e-06   24.6   0.0   1.2e-05   24.1   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0008492 [Psilocybe cubensis]
+XP_047746638.1       -          nacht_mafft_aligned  -            1.9e-05   23.4   0.0      0.13   10.8   0.0   2.1   2   0   0   2   2   2   2 hypothetical protein JR316_0007587 [Psilocybe cubensis]
+XP_047747703.1       -          nacht_mafft_aligned  -            0.00015   20.5   0.0   0.00027   19.6   0.0   1.4   1   0   0   1   1   1   1 hypothetical protein JR316_0006675 [Psilocybe cubensis]
+XP_047753499.1       -          nacht_mafft_aligned  -            0.00054   18.6   0.4    0.0013   17.4   0.4   1.6   1   1   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047747483.1       -          nacht_mafft_aligned  -            0.00078   18.1   0.0    0.0014   17.3   0.0   1.3   1   0   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047745454.1       -          nacht_mafft_aligned  -             0.0019   16.9   0.0    0.0032   16.1   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein JR316_0010061 [Psilocybe cubensis]
+XP_047752334.1       -          nacht_mafft_aligned  -             0.0053   15.4   0.0    0.0086   14.7   0.0   1.2   1   0   0   1   1   1   1 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047752017.1       -          nacht_mafft_aligned  -             0.0062   15.2   0.0     0.014   14.0   0.0   1.5   1   0   0   1   1   1   1 Origin recognition complex subunit 3 [Psilocybe cubensis]
+XP_047741816.1       -          nacht_mafft_aligned  -              0.043   12.4   0.0     0.043   12.4   0.0   1.8   2   0   0   2   2   1   0 uncharacterized protein JR316_0013506 [Psilocybe cubensis]
+XP_047744790.1       -          nacht_mafft_aligned  -              0.079   11.5   0.1      0.23   10.0   0.1   1.7   1   1   0   1   1   1   0 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047752300.1       -          nacht_mafft_aligned  -               0.13   10.8   0.1      0.49    8.9   0.1   1.9   1   1   0   1   1   1   0 Vegetative incompatibility protein HET-E-1 [Psilocybe cubensis]
+XP_047752684.1       -          nacht_mafft_aligned  -                  3    6.3   5.7       4.1    5.9   5.7   1.2   1   0   0   1   1   1   0 hypothetical protein JR316_0001965 [Psilocybe cubensis]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      nacht_mafft_aligned.hmm
+# Target file:     psilocybe_allies/GCF_017499595.1_MGC_Penvy_1_protein.faa
+# Option settings: hmmsearch --tblout nacht_hits/nacht_hits.GCF_017499595.1_MGC_Penvy_1_.txt nacht_mafft_aligned.hmm psilocybe_allies/GCF_017499595.1_MGC_Penvy_1_protein.faa 
+# Current dir:     /mnt/LTR_userdata/auxie001/coprin_som/diverse
+# Date:            Thu Aug 28 11:13:35 2025
+# [ok]

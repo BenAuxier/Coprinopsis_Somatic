@@ -1,0 +1,22 @@
+# OS generated files #
+######################
+.DS_Store
+.Rhistory
+
+# Analyses files #
+######################
+
+# Snakemake
+.snakemake
+
+# Workflow
+workflow/intermediate
+workflow/temp
+
+# Data files #
+######################
+2_FindSomAs/data/Annotations/*gff
+2_FindSomAs/data/Genomes/*fa
+# But keep the folders
+!2_FindSomAs/data/Annotations/.gitkeep
+!2_FindSomAs/data/Genomes/.gitkeep

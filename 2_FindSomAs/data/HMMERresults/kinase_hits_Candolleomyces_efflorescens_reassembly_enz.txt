@@ -1,0 +1,67 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+KAJ2915958.1         -          kinase_mafft_aligned -           2.3e-123  410.7   0.9  2.8e-123  410.4   0.9   1.0   1   0   0   1   1   1   1 hypothetical protein MD484_g4421, partial [Candolleomyces efflorescens]
+KAJ2915800.1         -          kinase_mafft_aligned -            9.4e-06   23.5   0.4   2.3e-05   22.2   0.2   1.7   2   0   0   2   2   2   1 hypothetical protein MD484_g4617, partial [Candolleomyces efflorescens]
+KAJ2911555.1         -          kinase_mafft_aligned -              2e-05   22.5   0.0    0.0082   13.9   0.0   2.3   1   1   1   2   2   2   2 hypothetical protein MD484_g8862, partial [Candolleomyces efflorescens]
+KAJ2919284.1         -          kinase_mafft_aligned -            3.7e-05   21.6   1.2   0.00078   17.2   0.0   2.8   3   0   0   3   3   3   1 hypothetical protein MD484_g1074, partial [Candolleomyces efflorescens]
+KAJ2913407.1         -          kinase_mafft_aligned -            4.1e-05   21.4   0.0   6.4e-05   20.8   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g7015, partial [Candolleomyces efflorescens]
+KAJ2919304.1         -          kinase_mafft_aligned -            7.2e-05   20.6   0.1   0.00014   19.7   0.1   1.4   1   0   0   1   1   1   1 hypothetical protein MD484_g1115, partial [Candolleomyces efflorescens]
+KAJ2918678.1         -          kinase_mafft_aligned -            9.6e-05   20.2   0.1   0.00037   18.3   0.0   1.9   2   0   0   2   2   2   1 hypothetical protein MD484_g1745, partial [Candolleomyces efflorescens]
+KAJ2915841.1         -          kinase_mafft_aligned -            0.00015   19.6   0.0   0.00078   17.2   0.0   1.9   2   0   0   2   2   2   1 hypothetical protein MD484_g4567, partial [Candolleomyces efflorescens]
+KAJ2917145.1         -          kinase_mafft_aligned -            0.00016   19.5   0.3    0.0027   15.5   0.4   2.3   2   1   0   2   2   2   1 hypothetical protein MD484_g3239, partial [Candolleomyces efflorescens]
+KAJ2919800.1         -          kinase_mafft_aligned -            0.00029   18.7   0.1   0.00067   17.4   0.0   1.6   2   0   0   2   2   2   1 hypothetical protein MD484_g558, partial [Candolleomyces efflorescens]
+KAJ2920288.1         -          kinase_mafft_aligned -            0.00034   18.4   0.0   0.00052   17.8   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g126, partial [Candolleomyces efflorescens]
+KAJ2916117.1         -          kinase_mafft_aligned -            0.00054   17.8   0.1   0.00084   17.1   0.1   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g4296, partial [Candolleomyces efflorescens]
+KAJ2920070.1         -          kinase_mafft_aligned -            0.00084   17.1   0.1    0.0016   16.2   0.1   1.3   1   0   0   1   1   1   1 hypothetical protein MD484_g320, partial [Candolleomyces efflorescens]
+KAJ2917162.1         -          kinase_mafft_aligned -            0.00093   17.0   0.0    0.0014   16.4   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g3254, partial [Candolleomyces efflorescens]
+KAJ2914128.1         -          kinase_mafft_aligned -             0.0013   16.5   0.0     0.002   15.8   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g6299, partial [Candolleomyces efflorescens]
+KAJ2912308.1         -          kinase_mafft_aligned -             0.0013   16.5   0.1    0.0059   14.3   0.0   1.8   1   1   1   2   2   2   1 hypothetical protein MD484_g8116, partial [Candolleomyces efflorescens]
+KAJ2919504.1         -          kinase_mafft_aligned -             0.0017   16.1   0.0    0.0028   15.4   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein MD484_g935, partial [Candolleomyces efflorescens]
+KAJ2920377.1         -          kinase_mafft_aligned -             0.0017   16.1   0.0    0.0063   14.2   0.0   1.7   1   1   1   2   2   2   1 hypothetical protein MD484_g176, partial [Candolleomyces efflorescens]
+KAJ2918558.1         -          kinase_mafft_aligned -             0.0018   16.1   0.0    0.0025   15.5   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g1902, partial [Candolleomyces efflorescens]
+KAJ2913071.1         -          kinase_mafft_aligned -             0.0019   16.0   0.0    0.0031   15.3   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g7348, partial [Candolleomyces efflorescens]
+KAJ2915454.1         -          kinase_mafft_aligned -             0.0025   15.5   0.1    0.0075   14.0   0.1   1.8   1   1   1   2   2   2   1 hypothetical protein MD484_g4944, partial [Candolleomyces efflorescens]
+KAJ2914377.1         -          kinase_mafft_aligned -              0.003   15.3   0.0    0.0087   13.8   0.0   1.6   2   0   0   2   2   2   1 hypothetical protein MD484_g6028, partial [Candolleomyces efflorescens]
+KAJ2916628.1         -          kinase_mafft_aligned -             0.0034   15.1   0.6      0.15    9.7   0.3   2.4   2   1   1   3   3   3   1 hypothetical protein MD484_g3788, partial [Candolleomyces efflorescens]
+KAJ2915100.1         -          kinase_mafft_aligned -             0.0036   15.0   0.0    0.0061   14.3   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein MD484_g5300, partial [Candolleomyces efflorescens]
+KAJ2915162.1         -          kinase_mafft_aligned -             0.0036   15.0   0.0    0.0052   14.5   0.0   1.2   1   0   0   1   1   1   1 hypothetical protein MD484_g5262, partial [Candolleomyces efflorescens]
+KAJ2917812.1         -          kinase_mafft_aligned -             0.0036   15.0   0.0    0.0087   13.8   0.0   1.6   2   0   0   2   2   2   1 hypothetical protein MD484_g2563, partial [Candolleomyces efflorescens]
+KAJ2917652.1         -          kinase_mafft_aligned -              0.005   14.6   0.0     0.017   12.8   0.0   1.7   2   0   0   2   2   2   1 hypothetical protein MD484_g2784, partial [Candolleomyces efflorescens]
+KAJ2913197.1         -          kinase_mafft_aligned -             0.0061   14.3   0.0      0.01   13.5   0.0   1.3   1   0   0   1   1   1   1 hypothetical protein MD484_g7211, partial [Candolleomyces efflorescens]
+KAJ2912634.1         -          kinase_mafft_aligned -              0.007   14.1   0.0     0.013   13.2   0.0   1.4   1   0   0   1   1   1   1 hypothetical protein MD484_g7781, partial [Candolleomyces efflorescens]
+KAJ2916361.1         -          kinase_mafft_aligned -             0.0093   13.7   0.0     0.017   12.9   0.0   1.4   1   0   0   1   1   1   1 hypothetical protein MD484_g4030, partial [Candolleomyces efflorescens]
+KAJ2920004.1         -          kinase_mafft_aligned -               0.01   13.5   0.0      0.02   12.6   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g406, partial [Candolleomyces efflorescens]
+KAJ2919547.1         -          kinase_mafft_aligned -              0.011   13.4   0.0     0.019   12.6   0.0   1.3   1   0   0   1   1   1   0 hypothetical protein MD484_g950, partial [Candolleomyces efflorescens]
+KAJ2913839.1         -          kinase_mafft_aligned -              0.011   13.4   0.0     0.046   11.4   0.0   1.8   2   0   0   2   2   2   0 hypothetical protein MD484_g6575, partial [Candolleomyces efflorescens]
+KAJ2912870.1         -          kinase_mafft_aligned -              0.012   13.3   0.0     0.024   12.3   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g7556, partial [Candolleomyces efflorescens]
+KAJ2915408.1         -          kinase_mafft_aligned -              0.012   13.3   0.0     0.024   12.3   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g4979, partial [Candolleomyces efflorescens]
+KAJ2915776.1         -          kinase_mafft_aligned -              0.016   12.9   0.2      0.04   11.6   0.2   1.6   2   0   0   2   2   2   0 hypothetical protein MD484_g4652, partial [Candolleomyces efflorescens]
+KAJ2919114.1         -          kinase_mafft_aligned -              0.018   12.8   0.0     0.074   10.7   0.0   1.9   2   0   0   2   2   2   0 hypothetical protein MD484_g1291, partial [Candolleomyces efflorescens]
+KAJ2914079.1         -          kinase_mafft_aligned -               0.02   12.6   0.0     0.026   12.2   0.0   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g6347, partial [Candolleomyces efflorescens]
+KAJ2920160.1         -          kinase_mafft_aligned -              0.021   12.5   0.0     0.033   11.9   0.0   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g352, partial [Candolleomyces efflorescens]
+KAJ2916394.1         -          kinase_mafft_aligned -              0.023   12.4   0.0     0.046   11.4   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g3977, partial [Candolleomyces efflorescens]
+KAJ2916519.1         -          kinase_mafft_aligned -              0.028   12.1   0.0     0.049   11.3   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g3931, partial [Candolleomyces efflorescens]
+KAJ2912857.1         -          kinase_mafft_aligned -              0.028   12.1   0.0     0.044   11.5   0.0   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g7549, partial [Candolleomyces efflorescens]
+KAJ2920280.1         -          kinase_mafft_aligned -              0.032   11.9   0.0     0.066   10.9   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g71, partial [Candolleomyces efflorescens]
+KAJ2918695.1         -          kinase_mafft_aligned -              0.032   11.9   0.0     0.053   11.2   0.0   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g1782, partial [Candolleomyces efflorescens]
+KAJ2913430.1         -          kinase_mafft_aligned -              0.033   11.9   0.0     0.059   11.0   0.0   1.4   1   0   0   1   1   1   0 hypothetical protein MD484_g6986, partial [Candolleomyces efflorescens]
+KAJ2916572.1         -          kinase_mafft_aligned -              0.036   11.8   0.0      0.14    9.8   0.0   1.8   1   1   1   2   2   2   0 hypothetical protein MD484_g3857, partial [Candolleomyces efflorescens]
+KAJ2914953.1         -          kinase_mafft_aligned -              0.038   11.7   0.0     0.057   11.1   0.0   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g5444, partial [Candolleomyces efflorescens]
+KAJ2919748.1         -          kinase_mafft_aligned -              0.042   11.5   0.0      0.33    8.6   0.0   2.0   2   0   0   2   2   2   0 hypothetical protein MD484_g750, partial [Candolleomyces efflorescens]
+KAJ2914741.1         -          kinase_mafft_aligned -              0.045   11.4   0.1     0.069   10.8   0.1   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g5664, partial [Candolleomyces efflorescens]
+KAJ2913547.1         -          kinase_mafft_aligned -              0.046   11.4   0.0      0.26    8.9   0.0   2.0   2   0   0   2   2   2   0 hypothetical protein MD484_g6860, partial [Candolleomyces efflorescens]
+KAJ2916303.1         -          kinase_mafft_aligned -              0.048   11.3   0.0     0.075   10.7   0.0   1.3   1   0   0   1   1   1   0 hypothetical protein MD484_g4122, partial [Candolleomyces efflorescens]
+KAJ2919036.1         -          kinase_mafft_aligned -              0.067   10.9   0.0      0.73    7.5   0.0   1.9   2   0   0   2   2   2   0 hypothetical protein MD484_g1393, partial [Candolleomyces efflorescens]
+KAJ2913110.1         -          kinase_mafft_aligned -               0.11   10.1   0.0      0.17    9.5   0.0   1.2   1   0   0   1   1   1   0 hypothetical protein MD484_g7301, partial [Candolleomyces efflorescens]
+KAJ2920220.1         -          kinase_mafft_aligned -               0.24    9.1   3.8       1.4    6.5   3.8   2.0   1   1   0   1   1   1   0 hypothetical protein MD484_g89, partial [Candolleomyces efflorescens]
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      kinase_mafft_aligned.hmm
+# Target file:     coprinopsis_allies/GCA_027579765.1_Candolleomyces_efflorescens_reassembly_enz_protein.faa
+# Option settings: hmmsearch --tblout kinase_hits/kinase_hits.GCA_027579765.1_Candolleomyces_efflorescens_reassembly_enz_txt kinase_mafft_aligned.hmm coprinopsis_allies/GCA_027579765.1_Candolleomyces_efflorescens_reassembly_enz_protein.faa 
+# Current dir:     /mnt/LTR_userdata/auxie001/coprin_som/diverse
+# Date:            Thu Aug 28 11:13:49 2025
+# [ok]

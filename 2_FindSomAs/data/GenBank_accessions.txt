@@ -1,0 +1,17 @@
+SampleID	Species	Family	Strain	GenBank	Ploidy	Annotation
+Agabi_varbisH97_2	Agaricus bisporus var. bisporus	Agaricaceae	H97	GCF_000300575.1	Haploid	GenBank
+Laccaria_amethystina_LaAM-08-1_v1.0	Laccaria amethystina	Hydnangiaceae	LaAM-08-1	GCA_000827195.1	Haploid	GenBank
+V1.0	Laccaria bicolor	Hydnangiaceae	S238N-H82	GCF_000143565.1	Haploid	GenBank
+ASM412641v1	Candolleomyces aberdarensis	Psathyrellaceae	IHI B618	GCA_004126415.1	Haploid	GenBank
+Candolleomyces_efflorescens_reassembly_enz	Candolleomyces efflorescens	Psathyrellaceae	VT131	GCA_027579765.1	Haploid	GenBank
+Candolleomyces_eurysporus_reassembly_enz	Candolleomyces eurysporus	Psathyrellaceae	VTCC 930004	GCA_027579435.1	Haploid	GenBank
+Coprinellus_aureogranulatus_MPG-14n_reassembly	Coprinellus aureogranulatus	Psathyrellaceae	MPG-14N	GCA_027627275.1	Haploid	GenBank
+GCA_951394405.1_gfCopMica1.1	Coprinellus micaceus	Psathyrellaceae	gfCopMica1.1	GCA_951394405.1	Haploid	Augustus
+C_micaeus_w1	Coprinellus micaceus	Psathyrellaceae	W1	SRR13236577	?	Augustus
+C_micaeus_DM1047	Coprinellus micaceus	Psathyrellaceae	DM1047	SRR12518680	?	Augustus
+Copmic2	Coprinellus micaceus	Psathyrellaceae	FP101781	GCA_004369175.1	Haploid	GenBank
+CC3	Coprinopsis cinerea	Psathyrellaceae	okayama7	GCF_000182895.1	Haploid	GenBank
+Copmar1	Coprinopsis marcescibilis	Psathyrellaceae	CBS 121175	GCA_004369085.1	Haploid	GenBank
+Copph3	Coprinopsis sp.	Psathyrellaceae	MPI-PUGE-AT-0042	GCA_020736565.1	Haploid	GenBank
+GCA_900156845.1_ASM90015684v1	Coprinopsis strossmayeri	Psathyrellaceae		GCA_900156845.1	Haploid	Augustus
+LU_COA_1.0	Tulosesus angulatus	Psathyrellaceae	CBS 175.51	GCA_013368325.1	Haploid	GenBank

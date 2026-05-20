@@ -1,0 +1,1 @@
+Coprinellus_aureogranulatus_MPG-14n_reassembly	3	4	3	NMY22_g16578,NMY22_g364,NMY22_g9373,NMY22_g9378	NMY22_g16577,NMY22_g363,NMY22_g9377

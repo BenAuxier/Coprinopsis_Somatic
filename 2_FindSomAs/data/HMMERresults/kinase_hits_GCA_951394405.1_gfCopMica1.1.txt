@@ -1,0 +1,92 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+g4644.t1             -          kinase_mafft_aligned -             6e-120  400.0   0.5  7.7e-120  399.7   0.5   1.0   1   0   0   1   1   1   1 -
+g4647.t1             -          kinase_mafft_aligned -           4.9e-111  370.7   0.0  6.6e-111  370.3   0.0   1.0   1   0   0   1   1   1   1 -
+g10921.t1            -          kinase_mafft_aligned -            1.7e-53  181.3   0.0   2.2e-53  180.9   0.0   1.0   1   0   0   1   1   1   1 -
+g10919.t1            -          kinase_mafft_aligned -            1.2e-50  171.9   0.0   1.9e-50  171.2   0.0   1.2   1   0   0   1   1   1   1 -
+g10918.t1            -          kinase_mafft_aligned -            7.5e-48  162.7   0.0   3.8e-25   88.0   0.0   2.0   1   1   1   2   2   2   2 -
+g10920.t1            -          kinase_mafft_aligned -            4.2e-41  140.5   1.6   6.9e-38  129.9   0.2   2.2   1   1   1   2   2   2   2 -
+g6393.t1             -          kinase_mafft_aligned -            2.9e-11   42.3   0.0   2.4e-05   22.8   0.1   2.6   1   1   1   2   2   2   2 -
+g2766.t1             -          kinase_mafft_aligned -              5e-11   41.5   0.7     1e-10   40.5   0.7   1.6   1   1   0   1   1   1   1 -
+g2760.t1             -          kinase_mafft_aligned -            6.4e-11   41.2   0.8   1.8e-10   39.7   0.2   1.8   1   1   1   2   2   2   1 -
+g5562.t1             -          kinase_mafft_aligned -            2.2e-09   36.1   0.0   7.5e-05   21.2   0.0   2.2   2   0   0   2   2   2   2 -
+g2762.t1             -          kinase_mafft_aligned -            2.7e-09   35.8   0.1   5.4e-09   34.8   0.1   1.5   1   0   0   1   1   1   1 -
+g2771.t1             -          kinase_mafft_aligned -            1.7e-08   33.2   0.1   2.8e-08   32.5   0.1   1.3   1   0   0   1   1   1   1 -
+g2768.t1             -          kinase_mafft_aligned -              2e-06   26.3   0.0   4.9e-06   25.1   0.0   1.6   2   0   0   2   2   2   1 -
+g10802.t1            -          kinase_mafft_aligned -            6.8e-06   24.6   0.1   1.1e-05   23.9   0.1   1.3   1   0   0   1   1   1   1 -
+g6390.t1             -          kinase_mafft_aligned -            1.3e-05   23.7   0.0     2e-05   23.0   0.0   1.2   1   0   0   1   1   1   1 -
+g1679.t1             -          kinase_mafft_aligned -            1.3e-05   23.6   0.0   2.4e-05   22.8   0.0   1.3   1   0   0   1   1   1   1 -
+g8465.t1             -          kinase_mafft_aligned -            2.7e-05   22.6   0.0   4.9e-05   21.8   0.0   1.3   1   0   0   1   1   1   1 -
+g8525.t1             -          kinase_mafft_aligned -            3.5e-05   22.2   0.0   7.4e-05   21.2   0.0   1.4   1   0   0   1   1   1   1 -
+g2222.t1             -          kinase_mafft_aligned -            4.7e-05   21.8   0.6   0.00077   17.8   0.0   2.6   3   0   0   3   3   3   1 -
+g2278.t1             -          kinase_mafft_aligned -            5.1e-05   21.7   0.0    0.0001   20.7   0.0   1.4   1   0   0   1   1   1   1 -
+g674.t1              -          kinase_mafft_aligned -            0.00015   20.2   0.1   0.00037   18.9   0.0   1.6   1   1   1   2   2   2   1 -
+g12038.t1            -          kinase_mafft_aligned -            0.00024   19.5   0.0   0.00037   18.9   0.0   1.2   1   0   0   1   1   1   1 -
+g7731.t1             -          kinase_mafft_aligned -            0.00027   19.3   0.6    0.0015   16.9   0.5   2.2   1   1   1   2   2   2   1 -
+g12789.t1            -          kinase_mafft_aligned -             0.0004   18.8   0.0   0.00086   17.7   0.0   1.5   2   0   0   2   2   1   1 -
+g801.t1              -          kinase_mafft_aligned -            0.00047   18.5   0.1   0.00081   17.8   0.1   1.3   1   0   0   1   1   1   1 -
+g9859.t1             -          kinase_mafft_aligned -            0.00059   18.2   0.0    0.0017   16.7   0.0   1.6   1   1   1   2   2   2   1 -
+g9517.t1             -          kinase_mafft_aligned -            0.00062   18.2   0.1     0.015   13.6   0.0   2.1   2   0   0   2   2   2   1 -
+g5143.t1             -          kinase_mafft_aligned -            0.00085   17.7   0.0    0.0018   16.7   0.0   1.4   1   0   0   1   1   1   1 -
+g2821.t1             -          kinase_mafft_aligned -             0.0011   17.4   1.3    0.0031   15.8   0.4   2.1   2   1   0   2   2   2   1 -
+g8663.t1             -          kinase_mafft_aligned -             0.0012   17.2   0.1    0.0018   16.6   0.1   1.2   1   0   0   1   1   1   1 -
+g7637.t1             -          kinase_mafft_aligned -             0.0014   17.0   0.0    0.0021   16.4   0.0   1.1   1   0   0   1   1   1   1 -
+g11145.t1            -          kinase_mafft_aligned -             0.0015   16.9   0.9    0.0027   16.1   0.3   1.8   2   1   0   2   2   2   1 -
+g1983.t1             -          kinase_mafft_aligned -             0.0015   16.9   0.0    0.0026   16.1   0.0   1.3   1   0   0   1   1   1   1 -
+g12865.t1            -          kinase_mafft_aligned -             0.0021   16.4   0.0    0.0032   15.8   0.0   1.1   1   0   0   1   1   1   1 -
+g9907.t1             -          kinase_mafft_aligned -             0.0023   16.3   0.3    0.0069   14.7   0.4   1.8   1   1   0   1   1   1   1 -
+g1480.t1             -          kinase_mafft_aligned -             0.0023   16.2   0.0      0.05   11.9   0.0   2.2   1   1   1   2   2   2   1 -
+g1669.t1             -          kinase_mafft_aligned -             0.0026   16.1   0.1     0.026   12.8   0.0   2.3   2   0   0   2   2   2   1 -
+g899.t1              -          kinase_mafft_aligned -             0.0029   15.9   0.0    0.0047   15.2   0.0   1.2   1   0   0   1   1   1   1 -
+g12240.t1            -          kinase_mafft_aligned -             0.0034   15.7   0.0       1.8    6.8   0.0   2.2   2   0   0   2   2   2   0 -
+g8509.t1             -          kinase_mafft_aligned -             0.0039   15.5   0.0      0.01   14.1   0.0   1.6   2   0   0   2   2   1   1 -
+g886.t1              -          kinase_mafft_aligned -             0.0042   15.4   0.0    0.0071   14.7   0.0   1.2   1   0   0   1   1   1   1 -
+g5655.t1             -          kinase_mafft_aligned -             0.0055   15.0   0.0     0.015   13.6   0.0   1.6   2   0   0   2   2   1   1 -
+g1825.t1             -          kinase_mafft_aligned -             0.0056   15.0   0.0    0.0092   14.3   0.0   1.2   1   0   0   1   1   1   1 -
+g6830.t1             -          kinase_mafft_aligned -             0.0057   15.0   0.1     0.014   13.7   0.0   1.6   1   1   0   1   1   1   1 -
+g2665.t1             -          kinase_mafft_aligned -             0.0063   14.8   0.0     0.014   13.7   0.0   1.5   2   0   0   2   2   2   1 -
+g3629.t1             -          kinase_mafft_aligned -             0.0069   14.7   0.2     0.029   12.7   0.1   2.0   2   1   0   2   2   2   1 -
+g9035.t1             -          kinase_mafft_aligned -             0.0099   14.2   0.1     0.029   12.6   0.0   1.7   2   0   0   2   2   2   1 -
+g6567.t1             -          kinase_mafft_aligned -              0.011   14.1   0.0     0.037   12.3   0.0   1.7   2   0   0   2   2   2   0 -
+g10576.t1            -          kinase_mafft_aligned -              0.011   14.0   0.0     0.019   13.2   0.0   1.3   1   0   0   1   1   1   0 -
+g12237.t1            -          kinase_mafft_aligned -              0.011   14.0   0.0     0.058   11.7   0.0   1.8   2   0   0   2   2   2   0 -
+g12607.t1            -          kinase_mafft_aligned -              0.012   13.9   0.0     0.021   13.1   0.0   1.3   1   0   0   1   1   1   0 -
+g2757.t1             -          kinase_mafft_aligned -              0.013   13.9   0.0     0.029   12.7   0.0   1.5   2   0   0   2   2   1   0 -
+g2101.t1             -          kinase_mafft_aligned -              0.013   13.8   0.0     0.021   13.1   0.0   1.4   1   0   0   1   1   1   0 -
+g9881.t1             -          kinase_mafft_aligned -              0.019   13.3   0.0     0.028   12.7   0.0   1.2   1   0   0   1   1   1   0 -
+g5694.t1             -          kinase_mafft_aligned -               0.02   13.2   0.1     0.043   12.1   0.1   1.5   1   0   0   1   1   1   0 -
+g3857.t1             -          kinase_mafft_aligned -              0.023   13.0   0.0     0.041   12.1   0.0   1.3   1   0   0   1   1   1   0 -
+g13742.t1            -          kinase_mafft_aligned -              0.023   13.0   0.1      0.44    8.8   0.0   2.2   1   1   1   2   2   2   0 -
+g9616.t1             -          kinase_mafft_aligned -              0.029   12.7   0.0     0.059   11.7   0.0   1.4   1   0   0   1   1   1   0 -
+g12924.t1            -          kinase_mafft_aligned -               0.03   12.6   0.1     0.051   11.9   0.1   1.3   1   0   0   1   1   1   0 -
+g12224.t1            -          kinase_mafft_aligned -               0.03   12.6   0.0       2.5    6.3   0.0   2.2   2   0   0   2   2   2   0 -
+g844.t1              -          kinase_mafft_aligned -               0.03   12.6   0.0     0.054   11.8   0.0   1.4   1   0   0   1   1   1   0 -
+g2036.t1             -          kinase_mafft_aligned -              0.035   12.4   0.1      0.09   11.0   0.1   1.6   2   0   0   2   2   2   0 -
+g4725.t1             -          kinase_mafft_aligned -               0.04   12.2   0.0     0.062   11.6   0.0   1.2   1   0   0   1   1   1   0 -
+g6322.t1             -          kinase_mafft_aligned -              0.043   12.1   0.0     0.073   11.3   0.0   1.3   1   0   0   1   1   1   0 -
+g4941.t1             -          kinase_mafft_aligned -              0.044   12.1   0.0     0.084   11.1   0.0   1.4   1   0   0   1   1   1   0 -
+g4001.t1             -          kinase_mafft_aligned -              0.045   12.0   0.0     0.075   11.3   0.0   1.3   1   0   0   1   1   1   0 -
+g9483.t1             -          kinase_mafft_aligned -              0.046   12.0   0.0     0.082   11.2   0.0   1.3   1   0   0   1   1   1   0 -
+g13447.t1            -          kinase_mafft_aligned -              0.053   11.8   0.0      0.18   10.0   0.0   1.8   2   0   0   2   2   2   0 -
+g6642.t1             -          kinase_mafft_aligned -              0.059   11.6   0.0       0.1   10.8   0.0   1.4   1   0   0   1   1   1   0 -
+g12246.t1            -          kinase_mafft_aligned -               0.06   11.6   0.0      0.13   10.5   0.0   1.4   2   0   0   2   2   2   0 -
+g12103.t1            -          kinase_mafft_aligned -              0.061   11.6   0.0      0.26    9.5   0.0   1.9   2   1   0   2   2   2   0 -
+g2745.t1             -          kinase_mafft_aligned -              0.065   11.5   0.0     0.097   10.9   0.0   1.2   1   0   0   1   1   1   0 -
+g4728.t1             -          kinase_mafft_aligned -              0.066   11.5   0.0       0.1   10.8   0.0   1.2   1   0   0   1   1   1   0 -
+g13703.t1            -          kinase_mafft_aligned -               0.08   11.2   0.0      0.12   10.6   0.0   1.1   1   0   0   1   1   1   0 -
+g7778.t1             -          kinase_mafft_aligned -              0.081   11.2   0.0      0.14   10.4   0.0   1.3   1   0   0   1   1   1   0 -
+g8818.t1             -          kinase_mafft_aligned -              0.094   11.0   0.0      0.15   10.3   0.0   1.2   1   0   0   1   1   1   0 -
+g6879.t1             -          kinase_mafft_aligned -              0.098   10.9   0.0      0.15   10.3   0.0   1.2   1   0   0   1   1   1   0 -
+g3982.t1             -          kinase_mafft_aligned -               0.11   10.7   0.0      0.21    9.9   0.0   1.4   1   0   0   1   1   1   0 -
+g2014.t1             -          kinase_mafft_aligned -               0.17   10.1   3.6      0.32    9.2   2.4   2.1   2   1   0   2   2   1   0 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      kinase_mafft_aligned.hmm
+# Target file:     coprinopsis_allies/GCA_951394405.1_gfCopMica1.1_genomic.augustus.protein.faa
+# Option settings: hmmsearch --tblout kinase_hits/kinase_hits.GCA_951394405.1_gfCopMica1.1_genomic.augustus.txt kinase_mafft_aligned.hmm coprinopsis_allies/GCA_951394405.1_gfCopMica1.1_genomic.augustus.protein.faa 
+# Current dir:     /mnt/LTR_userdata/auxie001/coprin_som/diverse
+# Date:            Thu Aug 28 11:13:52 2025
+# [ok]
