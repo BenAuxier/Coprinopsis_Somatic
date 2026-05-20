@@ -34,3 +34,5 @@ Then I opened Rstudio from within the environment:
 	$ open -a RStudio
 
 And obtained a figure in `results/tree_heatmap.png`. As input it takes the `../2_FindSomAs/results/Loci_counts.txt` file. It also takes the newick tree produced above and a table mapping species to strains (`Sample_Species_map.txt`), both available in the directory `data` here.
+
+<img src="results/tree_heatmap.png" alt="tree">
