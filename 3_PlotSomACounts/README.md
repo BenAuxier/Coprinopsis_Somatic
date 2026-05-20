@@ -1,4 +1,4 @@
-# Plotting counts of candidate somA loci across the phylogeny
+# Plotting counts of candidate *somA* loci across the phylogeny
 
 ## Making a phylogeny of *Coprinopsis cinerea* and related species
 
@@ -10,13 +10,13 @@ I performed tBLASTn searches of these *C. cinerea* references on each species ge
 
 I aligned each gene with MAFFT v7.526 ([Katoh and Standley, 2013](https://doi.org/10.1093/molbev/mst010)) followed by manual curation using the *C. cinerea* CDS sequences as guides to deal with the very divergent introns. 
 
-The gene alignments were concatenated and given to IQ-TREE v2.3.6 ([Minh et al., 2020](https://doi.org/10.1093/molbev/msaa015)):
+The gene alignments were concatenated with [SeaView](https://doua.prabi.fr/software/seaview) and given to IQ-TREE v2.3.6 ([Minh et al., 2020](https://doi.org/10.1093/molbev/msaa015)):
 
 	$ iqtree2 -s RPB2+MCM7+TSR1.fa -m MFP -seed 1234 -b 100 -nt 6 -bnni -pre RPB2+MCM7+TSR1
 
 This produced a maximum likelihood phylogeny in newick format.
 
-The alignment in nexus and fasta format, as well as the tree are found in the `data` directory. The nexus format has definition of where the 3 genes start and end. You can visualize it with [SeaView](https://doua.prabi.fr/software/seaview).
+The alignment in nexus and fasta format, as well as the tree (`Mushrooms.tre`) are found in the `data` directory. The nexus format has definition of where the 3 genes start and end. You can visualize it with [SeaView](https://doua.prabi.fr/software/seaview).
 
 ## Plotting the phylogeny and the counts of *somA*-like loci
 
