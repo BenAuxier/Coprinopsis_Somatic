@@ -182,3 +182,5 @@ To put the tables together in a single file do:
 	$ cat results/Loci_counts_Augustus.txt | grep -v 'Strain' >> results/Loci_counts.txt
 
 Which you can open in Excel, or in R using the script in the folder `3_PlotSomACounts` in this repository.
+
+All these result files are already provided in here.
